@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Алексей Авилов
+N:Авилов; Алексей;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:znakav@mail.ru
+TEL;TYPE=MAIN:+7 903 435-36-02
+ORG:ДГТУ;ИОТ Школа Икс\, Приборостроение и биомедицинская инженерия
+TITLE:Доцент
+item1.URL:https\://donstux.com/
+item1.X-ABLabel:_$!<HomePage>!$_
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHzlVXKqnZjrYkIG85egD
+ uGRYQkacJ_kLKcElzeocxrFaVg9yYA
+CATEGORIES:myContacts
+END:VCARD
